@@ -1,0 +1,2 @@
+# bases_de_datos
+DESAFÍO I: CASO DE ESTUDIO ECOMMERCE
